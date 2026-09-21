@@ -1,4 +1,5 @@
 --liquibase formatted sql
+--liquibase formatted sql parameterExpansion:true
 
 --changeset raulsernadesangeles:001 splitStatements:true endDelimiter:;
 --validCheckSum: ANY
