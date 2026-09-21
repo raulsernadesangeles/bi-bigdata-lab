@@ -9,6 +9,6 @@ COMMENT 'Unity Catalog schema - BI and Big Data - Lab 02';
 
 --changeset bryan:002 splitStatements:true endDelimiter:;
 CREATE SCHEMA IF NOT EXISTS workspace.bi_staging_7003135940
-COMMENT 'Staging schema - BI and Big Data - Lab 03';
+COMMENT 'Experimento de Checksum - Lab 03';
 
 --rollback DROP SCHEMA IF EXISTS workspace.bi_staging_7003135940;
